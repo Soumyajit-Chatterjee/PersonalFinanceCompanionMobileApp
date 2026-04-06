@@ -47,15 +47,31 @@ Built with Jetpack Compose + Room + DataStore, with a clean UI and practical fea
 
 ## 📸 Screenshots
 
-Add your screenshots here before uploading:
+!Start
+![Screenshot_20260406_212737_Personal Finance Companion Mobile App](https://github.com/user-attachments/assets/fd7f2f0e-ffb9-48f5-ae65-a288988cd33e)
 
-```md
-![Home](screenshots/home.png)
-![Transactions](screenshots/transactions.png)
-![Insights](screenshots/insights.png)
-![Goal](screenshots/goal.png)
-![Settings](screenshots/settings.png)
-```
+![Home]
+![Screenshot_20260406_212744_Personal Finance Companion Mobile App](https://github.com/user-attachments/assets/f0fe107f-8117-4c0e-8d19-86ef648efa32)
+
+![Transactions]
+![Screenshot_20260406_212811_Personal Finance Companion Mobile App](https://github.com/user-attachments/assets/dd0aedb2-3b67-403e-af37-ec44125b3c3a)
+
+![Insights, Edits, Delete]
+![Screenshot_20260406_212828_Personal Finance Companion Mobile App](https://github.com/user-attachments/assets/f955c75e-e759-4bcf-bd73-91d5fbe48a31)
+
+![Screenshot_20260406_212816_Personal Finance Companion Mobile App](https://github.com/user-attachments/assets/08865a14-f28a-4f9a-b7bb-a72674ec3e35)
+
+![Screenshot_20260406_212819_Personal Finance Companion Mobile App](https://github.com/user-attachments/assets/4d7cef51-0605-4974-bfe6-79e4b631dd0b)
+
+![Screenshot_20260406_212822_Personal Finance Companion Mobile App](https://github.com/user-attachments/assets/dd11ae56-dda9-485a-b9e7-4aae25f31de0)
+
+![Goal]
+![Screenshot_20260406_212831_Personal Finance Companion Mobile App](https://github.com/user-attachments/assets/daa77114-e987-47a7-8214-2889a9413013)
+
+![Screenshot_20260406_212833_Personal Finance Companion Mobile App](https://github.com/user-attachments/assets/bd42101b-cdea-4ae2-9641-36ef3464d543)
+
+![Settings]
+![Screenshot_20260406_212840_Personal Finance Companion Mobile App](https://github.com/user-attachments/assets/1b097f3d-52da-4739-87b5-c64978e10fe6)
 
 ---
 
@@ -71,7 +87,7 @@ Add your screenshots here before uploading:
 ### Clone & Open
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Soumyajit-Chatterjee/PersonalFinanceCompanionMobileApp.git>
 cd PersonalFinanceCompanionMobileApp
 ```
 
@@ -132,12 +148,6 @@ app/src/main/java/com/example/personalfinancecompanionmobileapp
 
 PRs, ideas, and bug reports are welcome.  
 If you find something broken or weird, open an issue with steps to reproduce and I will check it out.
-
----
-
-## 📄 License
-
-You can use the MIT License (or replace this section with your preferred license before publishing).
 
 ---
 
